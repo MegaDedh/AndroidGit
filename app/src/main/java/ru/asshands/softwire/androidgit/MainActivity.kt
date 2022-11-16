@@ -13,5 +13,11 @@ class MainActivity : AppCompatActivity() {
         //some changes #4
         //some changes #5
 
+        //some feature 2 changes #1
+        //some feature 2 changes #22
+        //some feature 2 changes #3
+        //some feature 2 changes #4
+        //some feature 2 changes #5
+
     }
 }
